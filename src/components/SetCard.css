@@ -1,0 +1,49 @@
+* {
+}
+
+.cont1 {
+  padding-top: 2rem;
+  padding-left: 2rem;
+}
+
+.description-el {
+  width: 144px;
+  height: 14px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 12px;
+  line-height: 110%;
+  /* identical to box height, or 13px */
+
+  color: #222222;
+}
+
+.profile {
+  width: 176px;
+  height: 235px;
+}
+
+.title {
+  width: 175px;
+  height: 14px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+  /* identical to box height, or 13px */
+
+  color: #222222;
+}
+
+.numStats {
+  display: flex;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 12px;
+  line-height: 110%;
+}
